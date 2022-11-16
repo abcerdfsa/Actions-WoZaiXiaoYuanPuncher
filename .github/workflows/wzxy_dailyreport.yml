@@ -258,3 +258,4 @@ jobs:
         WZXY_PASSWORD: ${{secrets.PASSWORD}}
         WZXY_ADDRESS: ${{secrets.ADDRESS}}
       run: python wzxy-dailyreport.py
+ 
